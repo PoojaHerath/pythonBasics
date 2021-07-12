@@ -14,3 +14,5 @@ if 100 >= num >= 0:
         print("FAIL!")
 else:
     print("INVALID MARKS!")
+
+
